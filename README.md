@@ -50,12 +50,7 @@ Place orders with selected items and quantity
 
 Store order information with product details, user, status, and timestamps
 
-💳 Payment Integration (Simulated)
-Mock payment gateway simulation
 
-Secure checkout process
-
-Order confirmation post-payment
 
 🛒 Shopping Cart
 Add products to cart
