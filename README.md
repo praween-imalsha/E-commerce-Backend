@@ -99,3 +99,4 @@ Order stats, user activity logs, product performance tracking
 Registered users can submit reviews for purchased products. Reviews include ratings and comments, helping other customers make informed decisions and improving the platform's trustworthiness.
 https://github.com/praween-imalsha/E-commerce-Backend/blob/845dff4fe66987541f5123df018db87fd9950a14/Screenshot%202025-04-16%20203041.png
 https://github.com/praween-imalsha/E-commerce-Backend/blob/571b6fb6c24d52602febbe57f657c9200c60bcc1/Screenshot%202025-04-16%20203047.png
+frontend https://github.com/praween-imalsha/frontend-ecommerce.git
